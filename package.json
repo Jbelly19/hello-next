@@ -1,0 +1,27 @@
+{
+  "name": "hello-next",
+  "version": "1.0.0",
+  "description": "NextJs Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "Start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jbelly19/hello-next.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jbelly19/hello-next/issues"
+  },
+  "homepage": "https://github.com/Jbelly19/hello-next#readme",
+  "dependencies": {
+    "next": "^9.2.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
